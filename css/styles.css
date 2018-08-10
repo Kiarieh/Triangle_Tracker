@@ -18,3 +18,7 @@ body{
   color: #f6fbfb;
   background-repeat: no-repeat;
 }
+.button {
+  padding: 14px 40px;
+  font-size: 16px;
+}
