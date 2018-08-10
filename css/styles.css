@@ -15,5 +15,6 @@ h2 {
 }
 body{
   text-align: center;
-  color: #f6fbfb
+  color: #f6fbfb;
+  background-repeat: no-repeat;
 }
