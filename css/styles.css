@@ -5,13 +5,13 @@ h1 {
   font-family: "Helvetica Neue";
   color: var(--ic-brand-font-color-dark);
   color : #f6fbfb;
-
 }
 h2 {
   text-align: center;
   color: var(--ic-brand-font-color-dark);
   color: #f6fbfb;
-  font-size: 35px;
+  font-size: 20px;
+  font-family: "Helvetica Neue";
 }
 body{
   text-align: center;
