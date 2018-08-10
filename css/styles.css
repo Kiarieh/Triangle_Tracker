@@ -4,17 +4,17 @@ h1 {
   font-size: 50px;
   font-family: "Helvetica Neue";
   color: var(--ic-brand-font-color-dark);
-  color : #177071;
+  color : #f6fbfb;
 }
 h2 {
   text-align: center;
   color: var(--ic-brand-font-color-dark);
   text-decoration: underline;
-  color: #177071;
+  color: #f6fbfb;
 }
 .para {
   text-align: center;
   color: var(--ic-brand-font-color-dark);
-  color: #177071;
+  color: #f6fbfb;
   font-family: sans-serif;
 }
