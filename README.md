@@ -1,4 +1,4 @@
-# Triangle_Tracker
+# Triangle Tracker
 
 # Author Name
 Antony James Kiarie
@@ -7,22 +7,22 @@ This is project is called a triangle tracker. Its sole purpose is that it allows
 # Setup Instructions
 *clone the link from the github repo
 *run the link on google chrome.
-# Technologies Used
+# Technologies Used in this Project
 This particular project uses HTML, CSS and JAVASCRIPT.
 # A breakdown of project in terms of Behaviour Driven Development (B.D.D.)
 1- if the sum of two parameters is equal or exceeds the value of the third parameter, then the program will detect that the values do not form a realist triangle. 
-   *input - first value (6), second value (8), third value (15)
-   *output - values do not match a triangle.
+   --input - first value (6), second value (8), third value (15)
+   --output - values do not match a triangle.
 2- if the values entered are all equal to one another, then the program would recognise that the values form an equilateral triangle.
-   *input - first value (5), second value (5), third value (5)
-   *output - Triangle is Equilateral.
+   --input - first value (5), second value (5), third value (5)
+   --output - Triangle is Equilateral.
 3-  if two values in the input are equal, whereas the third value is different, then the program would recognise that the values make up an iscosceles triangle.
-    *input - first value (5), second value (5), third value(7)
-    *output - Triangle is Iscosceles.
+    --input - first value (5), second value (5), third value(7)
+    --output - Triangle is Iscosceles.
 4- if the values entered differ but still make up a realistic triangle, then the program will be able to recognise that the values make up a Scalene triangle.
-   *input - first value (3), second value (4), third value (5)
-   *output- Triangle is Scalene.
-### License
+   --input - first value (3), second value (4), third value (5)
+   --output- Triangle is Scalene.
+# License
 The MIT License (MIT)
 
 Copyright (c) 2018 - Antony James Kiarie
