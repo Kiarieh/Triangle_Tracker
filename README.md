@@ -3,11 +3,11 @@
 # Author Name
 Antony James Kiarie
 # Program Description
-This is project is called a triangle tracker. Its sole purpose is that it allows the user to enter any desired dimensions and it will be able to calculate whether the dimensions measure up to an; equilateral triangle, an iscoscles triangle or a scalene triangle. Furthermore, it will be able to tell if the entered dimensions measure up a real triangle or not. 
+This is project is called a triangle tracker. Its sole purpose is that it allows the user to enter any desired dimensions and it will be able to calculate whether the dimensions measure up to an; equilateral triangle, an iscoscles triangle or a scalene triangle. Furthermore, it will be able to tell if the entered dimensions measure up a real triangle or not. Moreover, if values entered are less or equal to zero, the program will be able to detect this and will show that a triangle's dimensions cannot be less or equal to zero. 
 # Setup Instructions
 *clone the link from the github repo
 *run the link on google chrome.
-# Technologies Used in this Project
+# Languages Used in this Project
 This particular project uses HTML, CSS and JAVASCRIPT.
 # A breakdown of project in terms of Behaviour Driven Development (B.D.D.)
 1- if the sum of two parameters is equal or exceeds the value of the third parameter, then the program will detect that the values do not form a realist triangle. 
@@ -22,6 +22,9 @@ This particular project uses HTML, CSS and JAVASCRIPT.
 4- if the values entered differ but still make up a realistic triangle, then the program will be able to recognise that the values make up a Scalene triangle.
    --input - first value (3), second value (4), third value (5)
    --output- Triangle is Scalene.
+ 5- if the values entered for either side are less or equal to zero, the program will detect this and will tell you that a triangle parameters cannot be less or equal to zero.
+   --input - first value (0), second value (6), third value (5)
+   --output - Triangle parameters cannot be zero.
 # License
 The MIT License (MIT)
 
