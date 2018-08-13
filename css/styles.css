@@ -13,10 +13,9 @@ h2 {
   font-size: 20px;
   font-family: "Helvetica Neue";
 }
-body{
-  text-align: center;
-  color: black;
-  background-repeat: no-repeat;
+.body {
+   background-color: #8a4611;
+   text-align: center;
 }
 div {
   padding: 14px 40px;
