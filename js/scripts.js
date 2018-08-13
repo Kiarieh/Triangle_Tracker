@@ -8,7 +8,7 @@ if(sideA===sideB && sideB===sideC && sideB===sideC){
 alert("Triangle is Equilateral ");
 }
 else if(sideA<=0 || sideB<=0 || sideC<=0){
-  alert("Triangle parameters cannot be zero")
+alert("Triangle parameters cannot be zero")
 }
 else if(sideA===sideB || sideA===sideC || sideC===sideB){
 alert("Triangle is Isosceles");
